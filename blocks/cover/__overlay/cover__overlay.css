@@ -4,3 +4,8 @@
     background: #2A2C2F;
     opacity: 0.3;
 }
+
+.cover__overlay:hover {
+    opacity: 0.8;
+    transition: linear 0.2s; 
+}
