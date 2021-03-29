@@ -3,6 +3,8 @@
     width: 690px;
     display: flex;
     flex-flow: column;
+    align-self: flex-start;
     border: 1px solid red;
     margin-top: 114px;
+    margin-left: 148px;
 }

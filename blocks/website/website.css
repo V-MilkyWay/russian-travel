@@ -1,0 +1,8 @@
+.website {
+    display: flex;
+    flex-flow:column;
+    justify-content: flex-end;
+    grid-area: website;
+    border: 1px solid red;
+    margin-bottom: 48px;
+}

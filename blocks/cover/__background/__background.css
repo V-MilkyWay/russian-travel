@@ -1,0 +1,8 @@
+.cover__background {
+    display: flex;
+    grid-area: backgrnd;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 1px solid red;
+}

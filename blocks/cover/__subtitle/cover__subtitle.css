@@ -1,0 +1,13 @@
+.cover__subtitle {
+    display: flex;
+    grid-area: backgrnd;
+    width: 360px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 122%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 245px;
+    z-index: 1;
+    color: #FFFFFF;
+}

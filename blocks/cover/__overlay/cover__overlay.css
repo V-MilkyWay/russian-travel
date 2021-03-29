@@ -1,0 +1,6 @@
+.cover__overlay {
+    display: flex;
+    grid-area: backgrnd;
+    background: #2A2C2F;
+    opacity: 0.3;
+}

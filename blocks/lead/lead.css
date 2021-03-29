@@ -1,7 +1,10 @@
 .lead {
+    margin: 0;
     display: flex;
+    align-self: center;
     flex-flow: column;
     align-items: center;
+    width: 984px;
     border: 1px solid red;
     margin-top: 56px;
 }

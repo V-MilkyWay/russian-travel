@@ -1,0 +1,16 @@
+.place__paragraph {
+    margin: 0;
+    display: flex;
+    flex-flow: column;
+    grid-area: paragraph;
+    border: 1px solid green;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+}
+
+.place__paragraph:nth-child(5) { 
+    grid-area: paragraph2;
+    margin-top: 26px;
+  }

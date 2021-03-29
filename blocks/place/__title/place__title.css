@@ -1,0 +1,11 @@
+.place__title {
+    display: flex;
+    margin: 0;
+    grid-area: title;
+    border: 1px solid red;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 106%;
+    color: #FFFFFF;
+    margin-bottom: 48px;
+}
