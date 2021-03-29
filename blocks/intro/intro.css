@@ -1,10 +1,26 @@
-.intro {
-    margin: 0;
-    width: 690px;
-    display: flex;
-    flex-flow: column;
-    align-self: flex-start;
-    border: 1px solid red;
-    margin-top: 114px;
-    margin-left: 148px;
+@media screen and (max-width:1280px) and (max-height: 6875px) {
+    .intro {
+        margin: 0;
+        width: 690px;
+        display: flex;
+        flex-flow: column;
+        align-self: flex-start;
+        border: 1px solid red;
+        margin-top: 114px;
+        margin-left: 148px;
+    }
 }
+  
+  @media screen and (max-width: 1024px) and (max-height: 6895px) {
+    .intro {
+        margin: 0;
+        width: 690px;
+        display: flex;
+        flex-flow: column;
+        align-self: flex-start;
+        border: 1px solid red;
+        margin-top: 114px;
+        margin-left: 48px;
+    }
+}
+  

@@ -1,7 +1,19 @@
-.place__image {
-    display: flex;
-    grid-area: image;
-    width: 460px;
-    height: 460px;
-    border: 1px solid red;
+@media screen and (max-width:1280px) and (max-height: 6875px) {
+    .place__image {
+        display: flex;
+        grid-area: image;
+        width: 460px;
+        height: 460px;
+        border: 1px solid red;
+    }   
+}
+
+@media screen and (max-width: 1024px) and (max-height: 6895px) {
+    .place__image {
+        display: flex;
+        grid-area: image;
+        width: 440px;
+        height: 440px;
+        border: 1px solid red;
+    }   
 }

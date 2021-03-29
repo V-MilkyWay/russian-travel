@@ -1,13 +1,31 @@
-.lead__image {
-display: flex;
-box-sizing:border-box;
-justify-content: center;
-padding-top: 90px;
-align-items: flex-start;
-margin-top: 64px;
-Width: 984px;  
-Height: 615px;
-background: url(../../../images/kalegin-michail-179870-unsplash.jpg);
-background-size: 100% 100%;
-border: 1px solid red;
-}
+@media screen and (max-width:1280px) and (max-height: 6875px) {
+    .lead__image {
+        display: flex;
+        box-sizing:border-box;
+        justify-content: center;
+        padding-top: 92px;
+        align-items: flex-start;
+        margin-top: 64px;
+        Width: 984px;  
+        Height: 615px;
+        background: url(../../../images/lead-polka.jpg);
+        background-size: 100% 100%;
+        border: 1px solid red;
+        }   
+  }
+
+@media screen and (max-width: 1024px) and (max-height: 6895px) {
+    .lead__image {
+        display: flex;
+        box-sizing:border-box;
+        justify-content: center;
+        padding-top: 92px;
+        align-items: flex-start;
+        margin-top: 56px;
+        Width: 928px;  
+        Height: 580px;
+        background: url(../../../images/lead-polka.jpg);
+        background-size: 100% 100%;
+        border: 1px solid red;
+        }      
+  }

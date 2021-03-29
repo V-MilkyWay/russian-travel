@@ -1,4 +1,13 @@
-.photo-grid__item {
-    width: 284px;
-    height: 213px;
+@media screen and (max-width:1280px) and (max-height: 6875px) {
+    .photo-grid__item {
+        width: 284px;
+        height: 213px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 6895px) {
+    .photo-grid__item {
+        width: 300px;
+        height: 225px;
+    }
 }
