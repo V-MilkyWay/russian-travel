@@ -15,3 +15,12 @@
         width: 1024px;
     }
 }
+
+@media screen and (max-width: 768px) and (max-height: 6855px) {
+    .main {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        width: 768px;
+    }
+}

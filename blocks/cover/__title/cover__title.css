@@ -31,3 +31,20 @@
         text-decoration: none;
     }
 }
+
+@media screen and (max-width: 768px) and (max-height: 6855px) {
+    .cover__title {
+        display: flex;
+        grid-area: backgrnd;
+        width: 560px;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 106%;
+        text-align: center;
+        margin: auto;
+        margin-top: 115px;
+        z-index: 1;
+        color: #FFFFFF;
+        text-decoration: none;
+    }  
+}
