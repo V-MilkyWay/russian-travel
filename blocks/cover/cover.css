@@ -1,7 +1,7 @@
 .cover {
     display: grid;
     grid-template-columns: 1184px;
-    grid-template-rows:  740px;
+    grid-template-rows: 740px;
     grid-template-areas:
     "backgrnd";
     margin-top: 92px;
