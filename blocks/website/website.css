@@ -1,4 +1,4 @@
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 481px) {
     .website {
         display: flex;
         flex-flow:column;
@@ -9,7 +9,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .website {
         display: flex;
         flex-flow:column;

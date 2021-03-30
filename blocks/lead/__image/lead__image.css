@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
     .lead__image {
         display: flex;
         box-sizing:border-box;
@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
     .lead__image {
         display: flex;
         box-sizing:border-box;
@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
     .lead__image {
         display: flex;
         box-sizing:border-box;
@@ -43,7 +43,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .lead__image {
         display: flex;
         box-sizing:border-box;

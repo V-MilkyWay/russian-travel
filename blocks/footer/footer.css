@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
     .footer {
         display: flex;
         border: 1px solid red;
@@ -9,7 +9,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
     .footer {
         display: flex;
         border: 1px solid red;
@@ -20,7 +20,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
     .footer {
         display: flex;
         border: 1px solid red;
@@ -31,7 +31,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .footer {
         display: flex;
         flex-flow: column;

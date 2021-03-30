@@ -1,4 +1,4 @@
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 481px) {
     .header__logo {
         width: 176px;
         height: 52px;
@@ -6,7 +6,7 @@
     }
   }
 
-@media screen and (max-width: 320px) {
+  @media screen and (min-width: 320px) and (max-width: 480px) {
     .header__logo {
         width: 142px;
         height: 42px;

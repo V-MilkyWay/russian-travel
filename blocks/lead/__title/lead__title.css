@@ -1,4 +1,4 @@
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 481px) {
     .lead__title {
         margin: 0; 
         width: 720px;
@@ -11,7 +11,7 @@
     }
   }
   
-@media screen and (max-width: 320px) {
+  @media screen and (min-width: 320px) and (max-width: 480px) {
     .lead__title {
         margin: 0; 
         width: 288px;

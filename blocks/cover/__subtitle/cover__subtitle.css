@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
     .cover__subtitle {
         display: flex;
         grid-area: backgrnd;
@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
     .cover__subtitle {
         display: flex;
         grid-area: backgrnd;
@@ -30,7 +30,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
     .cover__subtitle {
         display: flex;
         grid-area: backgrnd;
@@ -46,7 +46,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .cover__subtitle {
         display: flex;
         grid-area: backgrnd;

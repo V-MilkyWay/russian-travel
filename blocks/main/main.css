@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
     .main {
         display: flex;
         flex-flow: column;
@@ -7,7 +7,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
     .main {
         display: flex;
         flex-flow: column;
@@ -16,7 +16,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
     .main {
         display: flex;
         flex-flow: column;
@@ -25,7 +25,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .main {
         display: flex;
         flex-flow: column;

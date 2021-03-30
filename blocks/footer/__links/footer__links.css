@@ -1,4 +1,4 @@
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 481px) {
     .footer__links {
         margin: 0;
         display: flex;
@@ -6,7 +6,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .footer__links {
         margin: 0;
         display: flex;

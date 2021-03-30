@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
     .place {
         display: grid;
         grid-template-columns: 460px 484px;
@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
     .place {
         display: grid;
         grid-template-columns: 440px 456px;
@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
     .place {
         display: grid;
         grid-template-columns: 340px 352px;
@@ -43,7 +43,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .place {
         display: grid;
         grid-template-columns: auto;

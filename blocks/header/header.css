@@ -1,5 +1,4 @@
-
-@media screen and (max-width:1280px) {
+@media screen and (min-width: 1153px) {
   .header {
       display: flex;
       width: 1184px;
@@ -11,7 +10,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 897px) and (max-width: 1152px) {
   .header {
       display: flex;
       width: 928px;
@@ -23,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 481px) and (max-width: 896px) {
   .header {
       display: flex;
       width: 720px;
@@ -35,7 +34,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
   .header {
       display: flex;
       width: 288px;

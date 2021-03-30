@@ -1,26 +1,10 @@
-@media screen and (max-width: 1280px) {
-    .website__url-heading {
-        display: flex;
-        border: 1px solid red;
-        font-weight: normal;
-        font-size: 12px;
-        line-height: 100%;
-        letter-spacing: 0.2em;
-        margin-bottom: 12px;
-        color: #AAAAAA;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .website__url-heading {
-        display: flex;
-        border: 1px solid red;
-        font-weight: normal;
-        margin-top: 0;
-        font-size: 12px;
-        line-height: 100%;
-        letter-spacing: 0.2em;
-        margin-bottom: 12px;
-        color: #AAAAAA;
-    }
-}
+.website__url-heading {
+    display: flex;
+    border: 1px solid red;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0.2em;
+    margin-bottom: 12px;
+    color: #AAAAAA;
+ }
