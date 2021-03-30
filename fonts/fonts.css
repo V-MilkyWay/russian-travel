@@ -2,7 +2,7 @@
 
     font-family: 'Inter';
 
-    src: url('./Inter-Light.otf');
+    src: url('./Inter-Medium.otf');
 
     font-weight: normal;
 
@@ -13,7 +13,7 @@
 
     font-family: 'Inter';
 
-    src: url('./Inter-Medium.otf');
+    src: url('./Inter-Bold.otf');
 
     font-weight: bold;
 
