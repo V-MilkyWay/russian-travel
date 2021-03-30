@@ -1,8 +1,22 @@
-.website {
-    display: flex;
-    flex-flow:column;
-    justify-content: flex-end;
-    grid-area: website;
-    border: 1px solid red;
-    margin-bottom: 48px;
+@media screen and (max-width: 1280px) {
+    .website {
+        display: flex;
+        flex-flow:column;
+        justify-content: flex-end;
+        grid-area: website;
+        border: 1px solid red;
+        margin-bottom: 48px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .website {
+        display: flex;
+        flex-flow:column;
+        justify-content: flex-end;
+        width: 288px;
+        grid-area: website;
+        border: 1px solid red;
+        margin-bottom: 32px;
+    }
 }

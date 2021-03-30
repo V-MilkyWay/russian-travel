@@ -1,16 +1,19 @@
-.header__lang-link {
-    display: flex;
-    width: 30px;
-    height: 28px;
-    font-weight: normal;
-    font-size: 24px;
-    line-height: 28px;
-    color: #FFFFFF;
-    border: 1px solid red;
-}
+@media screen and (max-width: 1280px) {
+    .header__lang-link {
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: normal;
+        color: #FFFFFF;
+        border: 1px solid red;
+    }
+  }
 
-.header__lang-link:nth-child(2) { 
-    text-decoration-line: underline;
-    margin-right: 18px;
-    margin-left: auto;
-  } 
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+        font-weight: normal;
+        color: #FFFFFF;
+        border: 1px solid red;
+    }
+}

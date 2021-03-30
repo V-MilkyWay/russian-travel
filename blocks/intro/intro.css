@@ -1,4 +1,4 @@
-@media screen and (max-width:1280px) and (max-height: 6875px) {
+@media screen and (max-width:1280px) {
     .intro {
         margin: 0;
         width: 690px;
@@ -11,7 +11,7 @@
     }
 }
   
-@media screen and (max-width: 1024px) and (max-height: 6895px) {
+@media screen and (max-width: 1024px) {
     .intro {
         margin: 0;
         width: 690px;
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width: 768px) and (max-height: 6855px) {
+@media screen and (max-width: 768px) {
     .intro {
         margin: 0;
         width: 720px;
@@ -34,6 +34,19 @@
         border: 1px solid red;
         margin-top: 88px;
         margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        margin: 0;
+        width: 288px;
+        display: flex;
+        flex-flow: column;
+        align-self: flex-start;
+        border: 1px solid red;
+        margin-top: 64px;
+        margin-left: 16px;
     }
 }
   
