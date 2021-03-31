@@ -14,4 +14,4 @@
 
  ## **Link to GitHub Pages:**   
    
- ееееее
+ https://v-milkyway.github.io/russian-travel/index.html
