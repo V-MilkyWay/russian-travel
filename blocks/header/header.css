@@ -1,47 +1,38 @@
-@media screen and (min-width: 1153px) {
+.header {
+  display: flex;
+  margin: 0;
+  border: 1px solid red;
+  flex-flow: row;
+}
+
+@media screen and (min-width: 1280px) {
   .header {
-      display: flex;
       width: 1184px;
       height: 52px;
-      margin: 0;
       margin-top: 28px;
-      border: 1px solid red;
-      flex-flow: row;
   }
 }
 
-@media screen and (min-width: 897px) and (max-width: 1152px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .header {
-      display: flex;
       width: 928px;
       height: 52px;
-      margin: 0;
       margin-top: 28px;
-      border: 1px solid red;
-      flex-flow: row;
   }
 }
 
-@media screen and (min-width: 481px) and (max-width: 896px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .header {
-      display: flex;
       width: 720px;
       height: 52px;
-      margin: 0;
       margin-top: 28px;
-      border: 1px solid red;
-      flex-flow: row;
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .header {
-      display: flex;
       width: 288px;
       height: 42px;
-      margin: 0;
       margin-top: 16px;
-      border: 1px solid red;
-      flex-flow: row;
   }
 }
