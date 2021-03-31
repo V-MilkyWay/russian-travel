@@ -1,23 +1,17 @@
 # Проект 3: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+# **Russian-travel**   
+   
+## **Description:**   
+   
+ This is my second independent project - **Single-page website**. I'm practicing my skills! So far, the project is in the works, but you can already see the use of some technologies from the largest Russian IT company - **Yandex!**   
+   
+## **Used technologies:**   
+   
+ 1. **BEM** (*Block, Element, Modifier*) - is a component approach to web development based on the principle of dividing the interface into independent blocks. BEM is used in Yandex for frontend development.   
+   
+ 2. **Media Queries** - you can create styles  for small mobile phones, tablets, laptops, and large monitors.
 
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+ ## **Link to GitHub Pages:**   
+   
+ ееееее
