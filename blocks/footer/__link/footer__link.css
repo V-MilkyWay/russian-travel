@@ -1,7 +1,6 @@
 .footer__link {
     display: flex;
     align-items: center;
-    border: 1px solid red;
     font-weight: normal;
     margin: 0;
     margin-right: 18px;

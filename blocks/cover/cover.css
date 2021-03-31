@@ -2,7 +2,6 @@
     display: grid;
     grid-template-areas:
     "backgrnd";
-    border: 1px solid rgb(238, 5, 5);
 }
 
 .cover:hover .cover__overlay {

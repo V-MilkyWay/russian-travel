@@ -1,7 +1,6 @@
 .header {
   display: flex;
   margin: 0;
-  border: 1px solid red;
   flex-flow: row;
 }
 

@@ -5,7 +5,6 @@
     align-items: flex-start;
     background: url(../../../images/lead-polka.jpg);
     background-size: 100% 100%;
-    border: 1px solid red;
 }
 
 @media screen and (min-width: 1280px) {

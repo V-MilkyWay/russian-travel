@@ -3,7 +3,6 @@
     display: flex;
     flex-flow: column;
     grid-area: paragraph;
-    border: 1px solid green;
     font-weight: normal;
     line-height: 163%;
     color: #FFFFFF;

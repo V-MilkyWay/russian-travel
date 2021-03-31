@@ -2,7 +2,6 @@
     display: flex;
     margin: 0;
     grid-area: title;
-    border: 1px solid red;
     font-weight: 900;
     color: #FFFFFF;
 }

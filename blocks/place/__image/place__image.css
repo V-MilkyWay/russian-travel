@@ -1,7 +1,6 @@
 .place__image {
     display: flex;
     grid-area: image;
-    border: 1px solid red;
 }
 
 @media screen and (min-width: 1280px) {
