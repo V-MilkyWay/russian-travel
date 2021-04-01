@@ -4,5 +4,6 @@
     margin: 0 auto;
     background: #2A2C2F;
     align-items: center;
+    overflow-x:hidden;
     font-family: 'Inter', sans-serif;
 }

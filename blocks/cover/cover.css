@@ -19,7 +19,7 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .cover {
-        grid-template-columns: 1022px;
+        grid-template-columns: 1024px;
         grid-template-rows: 640px;
         margin-top: 92px;
     }

@@ -13,7 +13,6 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .main {
         max-width: 1024px;
-        margin: 0 auto;
     }
 }
 
