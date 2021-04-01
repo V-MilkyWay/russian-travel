@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
     display: flex;
     font-weight: normal;
     font-size: 18px;
@@ -7,7 +7,7 @@
     color: #FFFFFF;
 }
 
-.website__link:hover {
+.place__link:hover {
     opacity: 0.8;
     transition: linear 0.2s; 
 }

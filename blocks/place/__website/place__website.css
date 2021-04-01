@@ -1,4 +1,4 @@
-.website {
+.place__website {
     display: flex;
     flex-flow:column;
     justify-content: flex-end;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (min-width: 768px) {
-    .website {
+    .place__website {
         margin-bottom: 48px;
     }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-    .website {
+    .place__website {
         width: 288px;
         margin-bottom: 32px;
     }

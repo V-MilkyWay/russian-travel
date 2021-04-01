@@ -3,8 +3,6 @@
     box-sizing:border-box;
     justify-content: center;
     align-items: flex-start;
-    background: url(../../../images/lead-polka.jpg);
-    background-size: 100% 100%;
 }
 
 @media screen and (min-width: 1280px) {
