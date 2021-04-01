@@ -6,13 +6,13 @@
 
 @media screen and (min-width: 1280px) {
     .main {
-        width: 1280px;
+        max-width: 1280px;
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .main {
-        width: 1024px;
+        max-width: 1024px;
     }
 }
 
