@@ -30,7 +30,7 @@
         font-size: 72px;
         line-height: 106%;
         margin-bottom: 32px;
-    }  
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width:767px) {
@@ -39,5 +39,5 @@
         font-size: 32px;
         line-height: 109%;
         margin-bottom: 16px;
-    }  
+    }
 }

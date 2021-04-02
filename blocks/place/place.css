@@ -7,10 +7,7 @@
     .place {
         grid-template-columns: 460px 484px;
         grid-template-rows: repeat(2, auto) 1fr;
-        grid-template-areas:
-        "title website"
-        "image paragraph"
-        "image paragraph";
+        grid-template-areas: "title website" "image paragraph" "image paragraph";
         grid-column-gap: 40px;
     }
 }
@@ -19,10 +16,7 @@
     .place {
         grid-template-columns: 440px 456px;
         grid-template-rows: repeat(2, auto) 1fr;
-        grid-template-areas:
-        "title website"
-        "image paragraph"
-        "image paragraph";
+        grid-template-areas: "title website" "image paragraph" "image paragraph";
         grid-column-gap: 32px;
     }
 }
@@ -31,10 +25,7 @@
     .place {
         grid-template-columns: 340px 352px;
         grid-template-rows: repeat(2, auto) 1fr;
-        grid-template-areas:
-        "title website"
-        "image paragraph"
-        "image paragraph";
+        grid-template-areas: "title website" "image paragraph" "image paragraph";
         grid-column-gap: 28px;
     }
 }
@@ -43,12 +34,7 @@
     .place {
         grid-template-columns: auto;
         grid-template-rows: repeat(5, auto);
-        grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraph"
-        "paragraph";
+        grid-template-areas: "title" "website" "image" "paragraph" "paragraph";
         justify-items: center;
     }
 }

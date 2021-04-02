@@ -1,6 +1,6 @@
 .lead__image {
     display: flex;
-    box-sizing:border-box;
+    box-sizing: border-box;
     justify-content: center;
     align-items: flex-start;
 }
