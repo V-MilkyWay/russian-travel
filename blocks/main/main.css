@@ -2,24 +2,24 @@
     display: flex;
     flex-flow: column;
     align-items: center;
-    border: 1px solid rgb(38, 245, 31);
+    border: 1px solid red;
 }
 
 @media screen and (min-width: 1280px) {
     .main {
-        max-width: 1280px;
+        max-width: 1184px;
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .main {
-        max-width: 1024px;
+        width: 1024px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .main {
-        max-width: 768px;
+        width: 768px;
     }
 }
 

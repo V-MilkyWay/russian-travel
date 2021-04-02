@@ -3,13 +3,14 @@
     display: flex;
     flex-flow: column;
     align-self: flex-start;
+    border: 1px solid red;
 }
 
 @media screen and (min-width: 1280px) {
     .intro {
         width: 690px;
         margin-top: 92px;
-        margin-left: 148px;
+        margin-left: calc(1280px - 1184px);
     }
 }
 

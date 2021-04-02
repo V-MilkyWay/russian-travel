@@ -4,6 +4,7 @@
     align-self: center;
     flex-flow: column;
     align-items: center;
+    border: 1px solid red;
 }
 
 @media screen and (min-width: 1280px) {
@@ -13,9 +14,9 @@
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 12792px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .lead {
-        min-width: 928px;
+        width: 928px;
         margin-top: 48px;
     }
 }
