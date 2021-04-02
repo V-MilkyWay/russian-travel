@@ -3,6 +3,7 @@
     font-weight: normal;
     text-align: center;
     color: #FFFFFF;
+    z-index: 2;
 }
 
 @media screen and (min-width: 1280px) {
