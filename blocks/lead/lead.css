@@ -8,14 +8,14 @@
 
 @media screen and (min-width: 1280px) {
     .lead {
-        width: 984px;
+        min-width: 984px;
         margin-top: 56px;
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 12792px) {
     .lead {
-        width: 928px;
+        min-width: 928px;
         margin-top: 48px;
     }
 }

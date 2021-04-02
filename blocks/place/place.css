@@ -1,6 +1,7 @@
 .place {
     display: grid;
     align-self: start;
+    align-content: end;
 }
 
 @media screen and (min-width: 1280px) {

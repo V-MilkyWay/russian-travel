@@ -1,5 +1,6 @@
 .place__link {
     display: flex;
+    justify-self: flex-end;
     font-weight: normal;
     font-size: 18px;
     line-height: 122%;

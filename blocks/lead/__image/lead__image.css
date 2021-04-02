@@ -2,7 +2,6 @@
     display: flex;
     box-sizing: border-box;
     justify-content: center;
-    align-items: flex-start;
 }
 
 @media screen and (min-width: 1280px) {
