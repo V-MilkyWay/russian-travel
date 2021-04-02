@@ -1,6 +1,40 @@
 .cover__overlay {
+    position: absolute;
     display: flex;
-    grid-area: backgrnd;
     background: #2A2C2F;
     opacity: 0.3;
+    z-index: 1;
+}
+
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+    transition: linear 0.2s;
+}
+
+@media screen and (min-width: 1280px) {
+    .cover__overlay {
+        width: 1184px;
+        height: 740px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover__overlay {
+        width: 1024px;
+        height: 640px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .cover__overlay {
+        width: 768px;
+        height: 480px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .cover__overlay {
+        width: 320px;
+        height: 200px;
+    }
 }

@@ -5,9 +5,9 @@
     line-height: 122%;
     text-decoration-line: underline;
     color: #FFFFFF;
+    transition: linear 0.2s; 
 }
 
 .place__link:hover {
     opacity: 0.8;
-    transition: linear 0.2s; 
 }

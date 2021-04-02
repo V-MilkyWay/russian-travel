@@ -1,5 +1,4 @@
 .place__paragraph {
-    margin: 0;
     display: flex;
     flex-flow: column;
     grid-area: paragraph;
@@ -8,9 +7,9 @@
     color: #FFFFFF;
 }
 
-.place__paragraph:nth-child(5) {
-    grid-area: paragraph2;
-    margin-top: 26px;
+.place__paragraph p {
+    margin: 0;
+    margin-bottom: 26px;
 }
 
 @media screen and (min-width: 1024px) {

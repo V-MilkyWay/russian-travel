@@ -3,6 +3,10 @@
     text-decoration: none;
     color: #FFFFFF;
 }
+.header__lang-link:nth-child(2) {
+    margin-right: 18px;
+    margin-left: auto; 
+}
 
 @media screen and (min-width: 768px) {
     .header__lang-link {

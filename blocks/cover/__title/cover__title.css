@@ -1,12 +1,8 @@
 .cover__title {
-    display: flex;
-    grid-area: backgrnd;
+    margin: 0 auto;
     font-weight: 900;
     text-align: center;
-    margin: auto;
-    z-index: 1;
     color: #FFFFFF;
-    text-decoration: none;
 }
 
 @media screen and (min-width: 1280px) {
@@ -14,7 +10,7 @@
         width: 560px;
         font-size: 72px;
         line-height: 106%;
-        margin-top: 245px;
+        margin-bottom: 32px;
     }
 }
 
@@ -23,7 +19,7 @@
         width: 560px;
         font-size: 72px;
         line-height: 106%;
-        margin-top: 195px;
+        margin-bottom: 32px;
     }
 }
 
@@ -32,7 +28,7 @@
         width: 560px;
         font-size: 72px;
         line-height: 106%;
-        margin-top: 115px;
+        margin-bottom: 32px;
     }  
 }
 
@@ -41,6 +37,6 @@
         width: 288px;
         font-size: 32px;
         line-height: 109%;
-        margin-top: 33px;
+        margin-bottom: 16px;
     }  
 }
