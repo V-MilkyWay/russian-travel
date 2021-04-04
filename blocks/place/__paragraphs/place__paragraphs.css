@@ -7,13 +7,7 @@
     color: #FFFFFF;
 }
 
-@media screen and (min-width: 1280px) {
-    .place__paragraphs {
-        font-size: 18px;
-    }
-}
-
-@media screen and (min-width: 1023px) and (max-width: 1279px) {
+@media screen and (min-width: 1024px) {
     .place__paragraphs {
         font-size: 18px;
     }
@@ -21,7 +15,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place__paragraphs {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
